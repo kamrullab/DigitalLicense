@@ -25,4 +25,17 @@ Follow us on Facebook for the latest updates, tips, and tricks related to Window
 .
 <br>
 .
+# Windows Activation Status
+
+This repository provides instructions on how to check the Windows activation status permanently using the `slmgr /xpr` command.
+
+## Instructions
+
+1. Open the Command Prompt by pressing `Win + R` and typing `cmd`, then hit `Enter`.
+
+2. In the Command Prompt window, type the following command and press `Enter`:
+
+   ```shell
+   slmgr /xpr
+
 ![image](https://github.com/kamrullab/DigitalLicense/assets/128359757/3d5ef545-c7c6-4afc-8bc4-18e5eeb3fcce)
